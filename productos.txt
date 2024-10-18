@@ -1,0 +1,3 @@
+Huevos,1.5,12
+Manzanas,4.6,12
+Leche,7.8,65
